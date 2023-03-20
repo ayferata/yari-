@@ -44,6 +44,7 @@ public class Main {
 			Thread.sleep(6000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
+			
 		}
       race.info();
 	}
