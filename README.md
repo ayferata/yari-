@@ -5,7 +5,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Yarışı Başlatın(Bir tuşa basın)...");
+		System.out.println("Bir tuşa basın...");
 		scanner.nextLine();
 		
 		ThreadRace race = new ThreadRace();
