@@ -42,7 +42,6 @@ public class Main {
 		try {
 			Thread.sleep(6000);
 		} catch (InterruptedException e) {
-			
 			e.printStackTrace();
 		}
       race.info();
