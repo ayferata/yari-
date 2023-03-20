@@ -37,7 +37,6 @@ public class Main {
 			thrace4.join();
 			thrace1.join();
 		} catch (InterruptedException e) {
-			
 			e.printStackTrace();
 		}
 		try {
